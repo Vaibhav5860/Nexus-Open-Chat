@@ -22,10 +22,9 @@ Anonymous video & text chat — meet strangers instantly. No signup required.
 ## Screenshots
 
 <p align="center">
-	<img src="assets/screenshot/Screenshot%202026-03-29%20020124.png" alt="NexusOpenChat Screenshot 1" width="24%" />
-	<img src="assets/screenshot/Screenshot%202026-03-29%20020138.png" alt="NexusOpenChat Screenshot 2" width="24%" />
-	<img src="assets/screenshot/Screenshot%202026-03-29%20020215.png" alt="NexusOpenChat Screenshot 3" width="24%" />
-	<img src="assets/screenshot/Screenshot%202026-03-29%20020324.png" alt="NexusOpenChat Screenshot 4" width="24%" />
+	<img src="assets/screenshot/Screenshot%202026-03-29%20020124.png" alt="NexusOpenChat Screenshot 1" width="32%" />
+	<img src="assets/screenshot/Screenshot%202026-03-29%20020138.png" alt="NexusOpenChat Screenshot 2" width="32%" />
+	<img src="assets/screenshot/Screenshot%202026-03-29%20020324.png" alt="NexusOpenChat Screenshot 4" width="32%" />
 </p>
 
 ## Tech Stack
